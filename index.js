@@ -39,6 +39,4 @@ function preserveDecimal(n, a){
  b= n+a
     return b
 }
-function preserveDecimal(n, a){
-  return a
-}
+
