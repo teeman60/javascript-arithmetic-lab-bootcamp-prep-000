@@ -37,3 +37,7 @@ function preserveDecimal(n, a){
  a='sldkjflksjf'
  return n
 }
+function preserveDecimal(n,b) {
+  b=2.222
+  return b
+}
