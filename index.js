@@ -32,8 +32,8 @@ function makeInt(a){
   var n = a;
   return n
 }
-function makeInt(a){
-  c=0x2328
+function makeInt(0x2328){
+  c=0
   return c
 }
 
