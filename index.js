@@ -34,11 +34,8 @@ return parseInt(k, 10);
 }
 makeInt(k);
 
-function preserveDecimal(n, a){
- a='sldkjflksjf'
- return n
+let l = Math.floor(Math.random() * 1000);
+function preserveDecimal(l){
+return parseFloat(l, 10);
 }
-function preserveDecimal(b, a) {
-  b=2.222
-  return b
-}
+preserveDecimal(l);
