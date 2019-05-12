@@ -40,6 +40,5 @@ function preserveDecimal(n, a){
     return b
 }
 function preserveDecimal(n, a){
-  n=2.222
   return n
 }
