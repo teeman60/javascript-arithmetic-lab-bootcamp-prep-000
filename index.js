@@ -32,6 +32,10 @@ function makeInt(a){
   var n = a;
   return n
 }
+function makeInt(0x2328) {
+  var d = 0x2328
+  return d
+}
 
 function preserveDecimal(n, a){
  a='sldkjflksjf'
