@@ -28,10 +28,11 @@ function dec(a) {
   return number
 }
 
-function makeInt(a){
-  var n = a;
-  return n
+let k = Math.floor(Math.random() * 1000);
+function makeInt(k){
+return parseInt(k, 10);
 }
+makeInt(k);
 
 function preserveDecimal(n, a){
  a='sldkjflksjf'
