@@ -35,5 +35,5 @@ function makeInt(a){
 
 function preserveDecimal(n, a){
 var b = (2.222, "sldkjflksjf")
-    return b
+    return n+a
 }
