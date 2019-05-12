@@ -38,7 +38,7 @@ function preserveDecimal(n){
     return n;
 }
 
-function preserveDecimal() {
-  n=sldkjflksjf
+function preserveDecimal(n) {
+  a=sldkjflksjf
   return n
 }
