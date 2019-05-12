@@ -37,3 +37,8 @@ function preserveDecimal(n){
   n = 2.222
     return n;
 }
+
+function preserveDecimal() {
+  n=sldkjflksjf
+  return n
+}
