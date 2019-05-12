@@ -35,10 +35,6 @@ function makeInt(a){
 
 function preserveDecimal(n){
   n = 2.222
+true = sldkjflksjf
     return n;
-}
-
-function preserveDecimal(number) {
-  number = sldkjflksjf
-  return number
 }
